@@ -39,9 +39,7 @@ A **user-friendly Streamlit web app** was developed for real-time churn predicti
 pip install -r requirements.txt
 ```
 ### 2️⃣ Run the Streamlit App
-```bash
-streamlit run streamlit_churn_prediction.py
-```
+Here's the app link - [streamlit app link](https://churn-prediction123.streamlit.app/)
 
 ## 📌 Future Improvements
 - Implement **Deep Learning models** for better accuracy.
